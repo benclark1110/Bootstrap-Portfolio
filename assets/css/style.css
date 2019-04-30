@@ -18,9 +18,10 @@ body{
     padding: 20px;
 }
 
-#navbarSupportedContent:hover{
+.nav-link:hover{
     color: #4aaaa5;
 }
+
 #bootstrapNavbar{
     font-family: 'Georgia', Times, Times New Roman, serif;
     border-bottom: 3px solid #cccccc;
@@ -65,6 +66,10 @@ body{
 /*Contact Styling*/
 button{
     color: #4aaaa5
+}
+
+.contactLinks {
+    text-align: center;
 }
 
 /*Portfolio Styling*/
